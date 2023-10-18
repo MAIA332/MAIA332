@@ -1,18 +1,10 @@
 ### Hi there 👋
-<p align="center">
-    <a href="https://github.com/MAIA332/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/MAIA332/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/MAIA332/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/MAIA332/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/MAIA332/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/MAIA332/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/MAIA332/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MAIA332/github-readme-stats?color=0088ff" />
-    </a>
-</p>
+
+#### Responsive Card Theme
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MAIA332\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/MAIA332/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MAIA332\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/MAIA332/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+
 
 <!--
 **MAIA332/MAIA332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
