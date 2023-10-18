@@ -1,5 +1,7 @@
 # Hello World 👋
 
+Olá, sou Lucas, programador e entusiasta de IA nos tempos livres, dê uma olhada nos meus repositórios, sei que você pode gostar de alguma coisa, bem vindo!
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-11-blue)](https://www.learn-c.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -7,10 +9,6 @@
 [![CSS](https://img.shields.io/badge/CSS-3-blueviolet)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 Atualmente focado no desenvolvimento de aplicações utilizando várias linguagens, incluindo Python, C, JavaScript. Além disso, explorando IA e machine learning para criar soluções inovadoras.
-
-<!-- Gist Cards -->
-[![Custom Gist 1](https://gist.github.com/MAIA332/gist-id.js)](https://gist.github.com/MAIA332/gist-id)
-[![Custom Gist 2](https://gist.github.com/MAIA332/gist-id.js)](https://gist.github.com/MAIA332/gist-id)
 
 
 ## Tecnologias mais utilizadas
