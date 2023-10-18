@@ -10,6 +10,8 @@ Olá, sou Lucas, programador e entusiasta de IA nos tempos livres, dê uma olhad
 
 Atualmente focado no desenvolvimento de aplicações utilizando várias linguagens, incluindo Python, C, JavaScript. Além disso, explorando IA e machine learning para criar soluções inovadoras.
 
+![kitty](gifs/f5d407d8-d09a-4d0c-8b35-7a634b5e2a15.gif)
+
 
 ## Tecnologias mais utilizadas
 
@@ -21,6 +23,17 @@ Atualmente focado no desenvolvimento de aplicações utilizando várias linguage
 ## Área de estudo atual: Desenvolvimento de IA e Machine Learning
 
 Sempre buscando o estudo e o aperfeiçoamento no campo da Inteligência Artificial (IA) e do Machine Learning (ML). Exploramos algoritmos avançados, aprendizado de máquina supervisionado e não supervisionado, redes neurais e muito mais para desenvolver soluções inovadoras que impulsionem nossos projetos. Muitos projetos estão por vir!
+
+![Mew](gifs/4072f78f453674b3c7422056bf213837.gif)
+
+## Idiomas:
+
+| Lingua | Nível |
+|-------|-------|
+| Português  | Nativo    |
+| Espanhol  | Básico    |
+| Inglês  | Intermediário    |
+| Alemão | Básico    |
 
 
 
