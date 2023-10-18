@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></link>
 # Hello World 👋
 
 Olá, sou Lucas, programador e entusiasta de IA nos tempos livres, dê uma olhada nos meus repositórios, sei que você pode gostar de alguma coisa, bem vindo!
@@ -10,10 +9,6 @@ Olá, sou Lucas, programador e entusiasta de IA nos tempos livres, dê uma olhad
 [![CSS](https://img.shields.io/badge/CSS-3-blueviolet)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 Atualmente focado no desenvolvimento de aplicações utilizando várias linguagens, incluindo Python, C, JavaScript. Além disso, explorando IA e machine learning para criar soluções inovadoras.
-
-
-<i class="devicon-css3-plain-wordmark"></i>
-          
 
 
 ## Tecnologias mais utilizadas
