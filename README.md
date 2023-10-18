@@ -22,7 +22,7 @@ Atualmente focado no desenvolvimento de aplicações utilizando várias linguage
 
 ## Área de estudo atual: Desenvolvimento de IA e Machine Learning
 
-Sempre buscando o estudo e o aperfeiçoamento no campo da Inteligência Artificial (IA) e do Machine Learning (ML). Exploramos algoritmos avançados, aprendizado de máquina supervisionado e não supervisionado, redes neurais e muito mais para desenvolver soluções inovadoras que impulsionem nossos projetos. Muitos projetos estão por vir!
+Sempre buscando o estudo e o aperfeiçoamento no campo da Inteligência Artificial (IA) e do Machine Learning (ML). Explorando algoritmos, aprendizado de máquina supervisionado e não supervisionado, redes neurais e muito mais para desenvolver soluções inovadoras que impulsionem nossos projetos. Muitos projetos estão por vir!
 
 ![Mew](gifs/4072f78f453674b3c7422056bf213837.gif)
 
