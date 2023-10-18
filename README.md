@@ -8,14 +8,19 @@
 
 Atualmente focado no desenvolvimento de aplicações utilizando várias linguagens, incluindo Python, C, JavaScript. Além disso, explorando IA e machine learning para criar soluções inovadoras.
 
-## Tecnologias Utilizadas
+<!-- Gist Cards -->
+[![Custom Gist 1](https://gist.github.com/MAIA332/gist-id.js)](https://gist.github.com/MAIA332/gist-id)
+[![Custom Gist 2](https://gist.github.com/MAIA332/gist-id.js)](https://gist.github.com/MAIA332/gist-id)
+
+
+## Tecnologias mais utilizadas
 
 - **Python**: Utilizamos Python para desenvolver a lógica de negócios e implementar funcionalidades avançadas.
 - **C**: Utilizamos C para otimizar certas partes do código e garantir alta performance.
 - **JavaScript**: Utilizamos JavaScript para criar interfaces interativas e dinâmicas para nossas aplicações.
 - **HTML e CSS**: Utilizamos HTML e CSS para a criação de interfaces atraentes e responsivas.
 
-## Desenvolvimento de IA e Machine Learning
+## Área de estudo atual: Desenvolvimento de IA e Machine Learning
 
 Sempre buscando o estudo e o aperfeiçoamento no campo da Inteligência Artificial (IA) e do Machine Learning (ML). Exploramos algoritmos avançados, aprendizado de máquina supervisionado e não supervisionado, redes neurais e muito mais para desenvolver soluções inovadoras que impulsionem nossos projetos. Muitos projetos estão por vir!
 
