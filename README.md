@@ -35,6 +35,16 @@ Sempre buscando o estudo e o aperfeiçoamento no campo da Inteligência Artifici
 | Inglês  | Intermediário    |
 | Alemão | Básico    |
 
+## Contato
+
+Fique à vontade para entrar em contato comigo através dos seguintes meios:
+
+- **E-mail**: [lk.maia0505@outlook.com](mailto:lk.maia0505@outlook.com)
+
+- **LinkedIn**: [lukas maia]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/lukas-maia-263a331b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+
+
+Sinta-se à vontade para me seguir nas redes sociais e enviar uma mensagem! Estou sempre aberto a colaborações e novas conexões.
 
 
 <!--
