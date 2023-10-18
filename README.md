@@ -11,6 +11,10 @@ Olá, sou Lucas, programador e entusiasta de IA nos tempos livres, dê uma olhad
 Atualmente focado no desenvolvimento de aplicações utilizando várias linguagens, incluindo Python, C, JavaScript. Além disso, explorando IA e machine learning para criar soluções inovadoras.
 
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
+
 ## Tecnologias mais utilizadas
 
 - **Python**: Utilizamos Python para desenvolver a lógica de negócios e implementar funcionalidades avançadas.
