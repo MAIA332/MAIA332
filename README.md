@@ -43,6 +43,9 @@ Fique à vontade para entrar em contato comigo através dos seguintes meios:
 
 - **LinkedIn**: [lukas maia]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/lukas-maia-263a331b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
+- **Site**: [Sinapse Labs]([https://sinapselabs.com.br)
+
+
 
 Sinta-se à vontade para me seguir nas redes sociais e enviar uma mensagem! Estou sempre aberto a colaborações e novas conexões.
 
