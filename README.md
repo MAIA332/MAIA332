@@ -1,6 +1,6 @@
 # Hello World 👋
 
-Olá, sou Lucas, programador e entusiasta de IA nos tempos livres, dê uma olhada nos meus repositórios, sei que você pode gostar de alguma coisa, bem vindo!
+Hello, I'm Lucas — a programmer and AI enthusiast in my spare time. Feel free to check out my repositories, you might find something you like. Welcome!
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-11-blue)](https://www.learn-c.org/)
@@ -8,19 +8,20 @@ Olá, sou Lucas, programador e entusiasta de IA nos tempos livres, dê uma olhad
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blueviolet)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Atualmente focado no desenvolvimento de aplicações utilizando várias linguagens, incluindo Python, C, JavaScript. Além disso, explorando IA e machine learning para criar soluções inovadoras.
+Currently focused on developing applications using multiple languages, including Python, C, and JavaScript. Also exploring AI and machine learning to create innovative solutions.
 
+## Most Used Technologies
+Python: Used to develop business logic and implement advanced functionalities.
 
-## Tecnologias mais utilizadas
+C: Used to optimize specific parts of the code and ensure high performance.
 
-- **Python**: Utilizamos Python para desenvolver a lógica de negócios e implementar funcionalidades avançadas.
-- **C**: Utilizamos C para otimizar certas partes do código e garantir alta performance.
-- **JavaScript**: Utilizamos JavaScript para criar interfaces interativas e dinâmicas para nossas aplicações.
-- **HTML e CSS**: Utilizamos HTML e CSS para a criação de interfaces atraentes e responsivas.
+JavaScript: Used to create interactive and dynamic interfaces for our applications.
 
-## Área de estudo atual: Desenvolvimento de IA e Machine Learning
+HTML & CSS: Used to build attractive and responsive user interfaces.
 
-Sempre buscando o estudo e o aperfeiçoamento no campo da Inteligência Artificial (IA) e do Machine Learning (ML). Explorando algoritmos, aprendizado de máquina supervisionado e não supervisionado, redes neurais e muito mais para desenvolver soluções inovadoras que impulsionem nossos projetos. Muitos projetos estão por vir!
+## Current Area of Study: AI and Machine Learning Development
+
+Always pursuing learning and improvement in the field of Artificial Intelligence (AI) and Machine Learning (ML). Exploring algorithms, supervised and unsupervised learning, neural networks, and more to develop innovative solutions that drive our projects forward. Many exciting projects are on the way!
 
 ![Mew](gifs/4072f78f453674b3c7422056bf213837.gif)
 
