@@ -36,7 +36,7 @@ Always pursuing learning and improvement in the field of Artificial Intelligence
 
 ## Contato
 
-Fique à vontade para entrar em contato comigo através dos seguintes meios:
+Feel free to get in touch with me through the following channels:
 
 - **E-mail**: [lucasmaia@sinapselabs.com.br](mailto:lucasmaia@sinapselabs.com.br)
 
@@ -46,8 +46,7 @@ Fique à vontade para entrar em contato comigo através dos seguintes meios:
 
 
 
-Sinta-se à vontade para me seguir nas redes sociais e enviar uma mensagem! Estou sempre aberto a colaborações e novas conexões.
-
+Feel free to follow me on social media and send a message! I'm always open to collaborations and new connections.
 
 <!--
 **MAIA332/MAIA332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
