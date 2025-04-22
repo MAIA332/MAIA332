@@ -11,7 +11,7 @@ Hello, I'm Lucas — a programmer and AI enthusiast in my spare time. Feel free 
 Currently focused on developing applications using multiple languages, including Python, C, and JavaScript. Also exploring AI and machine learning to create innovative solutions.
 
 ## Most Used Technologies
-Python: Used to develop business logic and implement advanced functionalities.
+Python: Used to develop business logic and implement advanced functionalities an IA research.
 
 C: Used to optimize specific parts of the code and ensure high performance.
 
