@@ -29,10 +29,10 @@ Always pursuing learning and improvement in the field of Artificial Intelligence
 
 | Lingua | Nível |
 |-------|-------|
-| Português  | Nativo    |
-| Espanhol  | Básico    |
-| Inglês  | Intermediário    |
-| Alemão | Básico    |
+| Português  | Native    |
+| Espanhol  | Basics    |
+| Inglês  | Intermediate    |
+| Alemão | Basics    |
 
 ## Contato
 
